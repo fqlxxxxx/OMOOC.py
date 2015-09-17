@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/OpenMindClub/OMOOC.py.svg?branch=master)](https://travis-ci.org/OpenMindClub/OMOOC.py)
+
 # 开智微课Python旗舰班 教程 集锦
 * OMOOC.py 助教团集体创作
 * [助教官方教程地址](http://openmindclub.gitbooks.io/omooc-py/content/)

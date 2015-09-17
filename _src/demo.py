@@ -3,7 +3,7 @@
 
 def hello(words="Hollo World!-)"):
     print words
-    return words
+    #return words
 
 
 if __name__ == '__main__':
